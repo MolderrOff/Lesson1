@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lsoDqr3C4XIpcjtGYATQdtrNYJJmqgT0hqr/ZFPCKaHn5bw94MCvbtLpmnmhCbMvCz0OLRjjcvQ/evZenuzMwA==",
+  "dgSpecHash": "8+C0ImW+6nrKJUaIg5EgJo54xgKSYt0tHQ0t2lyUPzA4yudyXTGlmm4d1NSyIk1yQru7u+/MX8DMBXptHHTobQ==",
   "success": true,
-  "projectFilePath": "C:\\VSCode\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj",
+  "projectFilePath": "C:\\VSCode\\01_CSHARP\\lesson1\\Task1\\Task1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
