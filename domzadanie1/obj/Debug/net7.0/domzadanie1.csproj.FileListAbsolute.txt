@@ -1,0 +1,14 @@
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\bin\Debug\net7.0\domzadanie1.exe
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\bin\Debug\net7.0\domzadanie1.deps.json
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\bin\Debug\net7.0\domzadanie1.runtimeconfig.json
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\bin\Debug\net7.0\domzadanie1.dll
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\bin\Debug\net7.0\domzadanie1.pdb
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.AssemblyInfoInputs.cache
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.AssemblyInfo.cs
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.csproj.CoreCompileInputs.cache
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.dll
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\refint\domzadanie1.dll
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.pdb
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\domzadanie1.genruntimeconfig.cache
+C:\VSCode\01_CSHARP\Lesson1\domzadanie1\obj\Debug\net7.0\ref\domzadanie1.dll
